@@ -1,0 +1,14 @@
+[Unit]
+After=dappsteros-gateway.service
+After=dappsteros-message-bus.service
+Description=DappsterOS Local Storage Service
+
+[Service]
+ExecStartPre=/usr/bin/dappsteros-local-storage -v
+ExecStart=/usr/bin/dappsteros-local-storage -c /etc/dappsteros/local-storage.conf
+PIDFile=/var/run/dappsteros/local-storage.pid
+Restart=always
+Type=notify
+
+[Install]
+WantedBy=multi-user.target

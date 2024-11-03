@@ -1,0 +1,13 @@
+[common]
+RuntimePath=/var/run/dappsteros
+
+[app]
+LogPath=/var/log/dappsteros
+LogSaveName=local-storage
+LogFileExt=log
+DBPath=/var/lib/dappsteros/db
+ShellPath=/usr/share/dappsteros/shell
+
+[server]
+USBAutoMount=
+EnableMergerFS=false
