@@ -6,8 +6,8 @@ import (
 )
 
 const ICONURL = "./img/driver/GoogleDrive.svg"
-const CLIENTID = "921743327851-urr4f7jjfp4ts639evqb3i4m4qb4u4cc.apps.googleusercontent.com"
-const CLIENTSECRET = "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"
+const CLIENTID = "id-string.apps.googleusercontent.com"
+const CLIENTSECRET = "GOCSPX-v-client-secret"
 
 type Addition struct {
 	driver.RootID
