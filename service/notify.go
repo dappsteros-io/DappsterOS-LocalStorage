@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-LocalStorage/common"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/common"
 	"go.uber.org/zap"
 )
 

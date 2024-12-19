@@ -1,9 +1,9 @@
 package v2
 
 import (
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen"
-	"github.com/dappster-io/DappsterOS-LocalStorage/pkg/fstab"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/fstab"
 	"go.uber.org/zap"
 )
 

@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen/message_bus"
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen/message_bus"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
 	"github.com/pilebones/go-udev/netlink"
 )
 

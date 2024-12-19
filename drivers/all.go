@@ -1,8 +1,8 @@
 package drivers
 
 import (
-	_ "github.com/dappster-io/DappsterOS-LocalStorage/drivers/dropbox"
-	_ "github.com/dappster-io/DappsterOS-LocalStorage/drivers/google_drive"
+	_ "github.com/dappsteros-io/DappsterOS-LocalStorage/drivers/dropbox"
+	_ "github.com/dappsteros-io/DappsterOS-LocalStorage/drivers/google_drive"
 )
 
 // All do nothing,just for import

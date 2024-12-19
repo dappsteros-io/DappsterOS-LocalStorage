@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen"
-	"github.com/dappster-io/DappsterOS-LocalStorage/service/v2/wrapper"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/service/v2/wrapper"
 	"gotest.tools/v3/assert"
 
 	"github.com/moby/sys/mountinfo"

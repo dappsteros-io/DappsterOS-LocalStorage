@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"time"
 
-	exec2 "github.com/dappster-io/DappsterOS-Common/utils/exec"
+	exec2 "github.com/dappsteros-io/DappsterOS-Common/utils/exec"
 )
 
 // exec smart

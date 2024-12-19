@@ -8,4 +8,4 @@ on:
     - main
 jobs:
   call-workflow-passing-data:
-    uses: dappster-io/github/.github/workflows/go_codecov.yml@main
+    uses: dappsteros-io/github/.github/workflows/go_codecov.yml@main

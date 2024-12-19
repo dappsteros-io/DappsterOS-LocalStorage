@@ -3,7 +3,7 @@ package fs
 import (
 	"strings"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen"
 )
 
 const (

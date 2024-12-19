@@ -1,12 +1,12 @@
-module github.com/dappster-io/DappsterOS-LocalStorage
+module github.com/dappsteros-io/DappsterOS-LocalStorage
 
-go 1.21
+go 1.23.3
 
 require (
 	bazil.org/fuse v0.0.0-20230120002735-62a210ff1fd5
 	github.com/Xhofe/go-cache v0.0.0-20220723083548-714439c8af9a
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
-	github.com/dappster-io/DappsterOS-Common v0.4.9-alpha11
+	github.com/dappsteros-io/DappsterOS-Common v0.4.11
 	github.com/deckarep/golang-set/v2 v2.3.0
 	github.com/deepmap/oapi-codegen v1.12.4
 	github.com/getkin/kin-openapi v0.117.0

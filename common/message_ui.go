@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen/message_bus"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen/message_bus"
 )
 
 const (

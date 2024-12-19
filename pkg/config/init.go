@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/constants"
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/constants"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
 	"gopkg.in/ini.v1"
 )
 

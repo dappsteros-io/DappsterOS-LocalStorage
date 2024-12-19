@@ -3,8 +3,8 @@ package v2
 import (
 	"testing"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/pkg/sqlite"
-	model2 "github.com/dappster-io/DappsterOS-LocalStorage/service/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/sqlite"
+	model2 "github.com/dappsteros-io/DappsterOS-LocalStorage/service/model"
 	"gorm.io/gorm"
 	"gotest.tools/v3/assert"
 )

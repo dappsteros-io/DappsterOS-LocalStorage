@@ -15,16 +15,16 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/model"
-	"github.com/dappster-io/DappsterOS-Common/utils/common_err"
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-Common/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/common_err"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/zap"
 
-	model1 "github.com/dappster-io/DappsterOS-LocalStorage/model"
-	model2 "github.com/dappster-io/DappsterOS-LocalStorage/service/model"
+	model1 "github.com/dappsteros-io/DappsterOS-LocalStorage/model"
+	model2 "github.com/dappsteros-io/DappsterOS-LocalStorage/service/model"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/service"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/service"
 )
 
 func GetStorageList(ctx echo.Context) error {

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/dappster-io/DappsterOS-Common/external"
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen/message_bus"
-	"github.com/dappster-io/DappsterOS-LocalStorage/common"
+	"github.com/dappsteros-io/DappsterOS-Common/external"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen/message_bus"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/common"
 	"github.com/samber/lo"
 )
 

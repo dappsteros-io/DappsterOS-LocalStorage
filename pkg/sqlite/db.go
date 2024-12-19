@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/file"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/file"
 	"github.com/glebarez/sqlite"
 	"gorm.io/gorm"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/service/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/service/model"
 )
 
 type ContextKey string

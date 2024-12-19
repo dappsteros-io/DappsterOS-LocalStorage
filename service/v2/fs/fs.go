@@ -1,6 +1,6 @@
 package fs
 
-import "github.com/dappster-io/DappsterOS-LocalStorage/codegen"
+import "github.com/dappsteros-io/DappsterOS-LocalStorage/codegen"
 
 type Extension interface {
 	GetFSType() string

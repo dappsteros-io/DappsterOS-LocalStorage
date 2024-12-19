@@ -3,7 +3,7 @@ package driver
 import (
 	"context"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
 )
 
 type Driver interface {

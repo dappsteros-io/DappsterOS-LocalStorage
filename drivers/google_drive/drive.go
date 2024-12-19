@@ -7,11 +7,11 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-LocalStorage/drivers/base"
-	"github.com/dappster-io/DappsterOS-LocalStorage/internal/driver"
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
-	"github.com/dappster-io/DappsterOS-LocalStorage/pkg/utils"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/drivers/base"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/internal/driver"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/utils"
 	"github.com/go-resty/resty/v2"
 	"go.uber.org/zap"
 )

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
 	"go.uber.org/zap"
 )
 

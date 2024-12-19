@@ -1,9 +1,9 @@
 package v2
 
 import (
-	"github.com/dappster-io/DappsterOS-LocalStorage/pkg/sqlite"
-	"github.com/dappster-io/DappsterOS-LocalStorage/service/model"
-	model2 "github.com/dappster-io/DappsterOS-LocalStorage/service/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/sqlite"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/service/model"
+	model2 "github.com/dappsteros-io/DappsterOS-LocalStorage/service/model"
 )
 
 func init() {

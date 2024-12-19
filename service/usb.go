@@ -3,9 +3,9 @@ package service
 import (
 	"os"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/command"
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-LocalStorage/pkg/config"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/command"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/config"
 	"github.com/shirou/gopsutil/host"
 	"go.uber.org/zap"
 )

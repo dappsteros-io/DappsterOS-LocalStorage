@@ -1,7 +1,7 @@
 package v2
 
 import (
-	"github.com/dappster-io/DappsterOS-LocalStorage/service/v2/wrapper"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/service/v2/wrapper"
 	"gorm.io/gorm"
 )
 

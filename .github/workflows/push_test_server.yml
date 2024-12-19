@@ -7,7 +7,7 @@ permissions:
   contents: write
 jobs:
   call-workflow-passing-data:
-    uses: dappster-io/github/.github/workflows/push_test_server.yml@main
+    uses: dappsteros-io/github/.github/workflows/push_test_server.yml@main
     with:
       project-name: dappsteros-local-storage
     secrets:

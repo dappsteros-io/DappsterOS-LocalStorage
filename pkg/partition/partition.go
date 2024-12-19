@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/pkg/utils/command"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/utils/command"
 )
 
 type Partition struct {

@@ -4,9 +4,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/codegen"
-	"github.com/dappster-io/DappsterOS-LocalStorage/service"
-	v2 "github.com/dappster-io/DappsterOS-LocalStorage/service/v2"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/codegen"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/service"
+	v2 "github.com/dappsteros-io/DappsterOS-LocalStorage/service/v2"
 
 	"github.com/labstack/echo/v4"
 )

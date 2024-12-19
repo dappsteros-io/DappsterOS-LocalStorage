@@ -3,8 +3,8 @@ package dropbox
 import (
 	"time"
 
-	"github.com/dappster-io/DappsterOS-Common/utils/logger"
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/logger"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
 	"go.uber.org/zap"
 )
 

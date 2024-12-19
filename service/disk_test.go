@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
 	"gotest.tools/v3/assert"
 )
 

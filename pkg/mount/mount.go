@@ -1,6 +1,6 @@
 package mount
 
-import "github.com/dappster-io/DappsterOS-LocalStorage/pkg/utils/command"
+import "github.com/dappsteros-io/DappsterOS-LocalStorage/pkg/utils/command"
 
 func Mount(source string, mountpoint string, fstype *string, options *string) error {
 	args := []string{"--verbose"}

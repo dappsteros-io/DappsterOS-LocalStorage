@@ -1,9 +1,9 @@
 package v1
 
 import (
-	"github.com/dappster-io/DappsterOS-Common/model"
-	"github.com/dappster-io/DappsterOS-Common/utils/common_err"
-	"github.com/dappster-io/DappsterOS-LocalStorage/internal/op"
+	"github.com/dappsteros-io/DappsterOS-Common/model"
+	"github.com/dappsteros-io/DappsterOS-Common/utils/common_err"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/internal/op"
 	"github.com/labstack/echo/v4"
 )
 

@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dappster-io/DappsterOS-LocalStorage/model"
+	"github.com/dappsteros-io/DappsterOS-LocalStorage/model"
 	log "github.com/sirupsen/logrus"
 )
 
